@@ -1,0 +1,2 @@
+# hackerrank
+algorithm for kicks
