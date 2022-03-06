@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node utopian-tree.js"
+run = "node angryProfessor.js"

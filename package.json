@@ -1,0 +1,27 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "algorithm for kicks",
+  "main": "BirthdayCakeCandles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobi-et-al/hackerrank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobi-et-al/hackerrank/issues"
+  },
+  "homepage": "https://github.com/tobi-et-al/hackerrank#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "testMatch": [
+    "<rootDir>/src/**/*.(test).{js,jsx,ts,tsx}",
+    "<rootDir>/src/**/?(*.)(spec|test).{js,jsx,ts,tsx}"
+  ]
+}
