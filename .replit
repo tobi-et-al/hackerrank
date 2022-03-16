@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node minimum-distances.js"
+run = "node sherlock-and-squares.js"
