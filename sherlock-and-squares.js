@@ -8,7 +8,6 @@ const ss = (a, b) => {
     cnt++;
     x++;
   }
-  console.log(x)
   return cnt;
 } 
 console.assert(ss(24, 49) == 3)

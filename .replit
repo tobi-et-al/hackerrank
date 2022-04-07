@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node sherlock-and-squares.js"
+run = "node drawing-book.js"
